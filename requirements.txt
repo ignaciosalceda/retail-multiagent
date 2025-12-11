@@ -1,0 +1,54 @@
+# --- Core LLM stack ---
+langchain
+langgraph
+langchain-community
+langchain-core
+langchain-ollama
+
+# --- Proveedor LLM (elige uno, aquí dejo OpenAI como ejemplo) ---
+openai
+
+# --- Variables de entorno ---
+python-dotenv
+
+# --- Base de datos (MySQL) ---
+sqlalchemy
+pymysql
+
+# --- Vectorstore + embeddings (local, sin servicios externos) ---
+faiss-cpu
+sentence-transformers
+
+# --- Parsing de documentos ---
+pypdf
+unstructured
+markdown
+
+# --- API fake ---
+fastapi
+uvicorn
+
+# --- CLI & UX ---
+rich
+typer
+
+# --- Data & evaluación ---
+pandas
+numpy
+pyyaml
+
+# --- Notebooks ---
+jupyter
+
+# --- Testing ---
+pytest
+
+# --- Poblado ---
+faker
+oracledb
+pandas
+
+# --- RAG ---
+sentence-transformers
+reportlab
+
