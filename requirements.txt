@@ -42,6 +42,8 @@ jupyter
 
 # --- Testing ---
 pytest
+ruff
+black
 
 # --- Poblado ---
 faker
